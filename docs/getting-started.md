@@ -1,13 +1,13 @@
 ---
-title: Getting Started
+title: spicetify
 sidebar_position: 1
 ---
 
 Spicetify is a multiplatform command-line tool to customize the official Spotify client.
 
-## Installation
+## Installation Process
 
-### Windows
+### For Windows
 
 This is the installation method we recommend for most users. It is the fastest and most reliable way to install Spicetify. 
 
